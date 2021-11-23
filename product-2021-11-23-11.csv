@@ -1,0 +1,17 @@
+ProductID,CategoryID,ProductName,UnitPrice,UnitInStock
+3,1,Macbook Pro M1,45000,10
+4,1,Airpods Pro,12500,5
+5,3,iPhone 13 Pro Max,55000,3
+6,3,iPad Pro 2021,18500,10
+7,3,Macbook Pro M1,45000,10
+8,3,Airpods Pro,12500,5
+9,2,iPhone 13 Pro Max,55000,3
+10,2,iPad Pro 2021,18500,10
+11,2,Macbook Pro M1,45000,10
+12,2,Airpods Pro,12500,5
+14,2,surface pro,37000,1
+15,2,Surface Pro3,50000,1
+16,3,AmazFit GTR 3,5555,55
+17,4,ทดสอบ success edit 1,20,2
+18,1,iPhone 13 Pro Max,55000,3
+20,4,ทดสอบ Grai,54000,1
